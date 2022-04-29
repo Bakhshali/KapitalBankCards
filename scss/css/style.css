@@ -1,0 +1,106 @@
+#kartlar .main {
+  margin-top: 50px;
+}
+
+#kartlar .main h1 {
+  font-size: 50px;
+}
+
+#kartlar .main p {
+  width: 60%;
+}
+
+#kartlar .main .buttonum {
+  border-radius: 30%;
+}
+
+#kartlar .main .buttonum button {
+  border-radius: 30%;
+}
+
+#popular .row {
+  width: 80%;
+  height: 400px;
+  background-color: #E8ECF1;
+  border-radius: 20px;
+}
+
+#popular .row .main {
+  margin-bottom: 500px;
+}
+
+#popular .row .main .button button {
+  gap: 20px;
+  position: relative;
+  right: 100px;
+}
+
+#popular .row .text {
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+#popular .row .text h2 {
+  margin: 20px;
+}
+
+#popular .row .text i {
+  color: red;
+}
+
+#popular .row ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  right: 90px;
+  list-style: none;
+  gap: 70px;
+}
+
+#popular img {
+  margin: 40px;
+}
+
+#taksit .row .kartimages {
+  position: relative;
+  bottom: 80px;
+}
+
+#taksit .row h1 {
+  margin-top: 50px;
+}
+
+#taksit .row .umico {
+  margin-top: 50px;
+}
+
+#taksit .card-body {
+  margin-top: 300px;
+  border-radius: 15px;
+}
+
+#taksit .card-body a {
+  text-decoration: none;
+  color: red;
+  display: inline-block;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+#taksit .card-body .badboy {
+  color: black;
+}
+
+#taksit .card-body {
+  background-color: #e8f1fb72;
+}
+
+#taksit .card-body h5 {
+  margin-top: -40px;
+}
+/*# sourceMappingURL=style.css.map */
